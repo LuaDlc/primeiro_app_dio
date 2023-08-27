@@ -1,16 +1,15 @@
 # primeiro_app_dio
 
-A new Flutter project.
+Um projeto desafio da Dio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este é um projeto desafio da Dio.
+Um primeiro App desenvolvido em que o objetivo era fazer algumas alterações, como por exemplo, temas e cores.
 
-A few resources to get you started if this is your first Flutter project:
+Além de alterar algumas cores, alterei também algumas funcionalidades.
+A função de incremente foi adicionado o método Random, para gerar números aleatórios de 4 dígitos, aqui neste projeto, exemplifiquei como códigos para acesso de login.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Adicionei um botão que exibe um AlertDialog com uma mensagem, e dois botões.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
